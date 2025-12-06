@@ -1,1 +1,22 @@
-Typescript
+Typescript -> Type safety
+It is a superset of javascript.
+It is a statically typed language.
+
+What is Typescript and What it is not?
+Static checking -> Data type checking
+
+
+How codecompiling happens?
+Typescript (.ts) -> Javascript (.js)
+Typescript is dev tool
+Project still runs a js codeset
+
+
+Installation of Typescript:
+
+How to install in a Project:(Dev dependency)
+npm install typescript --save-dev 
+
+How to install globally systemwide
+npm install -g typescript
+

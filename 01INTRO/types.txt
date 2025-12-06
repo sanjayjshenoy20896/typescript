@@ -1,0 +1,15 @@
+Types
+Given below are the different types
+Number
+String
+Boolean
+Null
+undefined
+Void
+Object
+Array
+Tuples
+
+Any
+Never
+Unknown
