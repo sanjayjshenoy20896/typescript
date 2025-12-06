@@ -6,3 +6,5 @@ var SeatChoice;
     SeatChoice[SeatChoice["FOURTH"] = 5] = "FOURTH";
 })(SeatChoice || (SeatChoice = {}));
 var hcSeat = SeatChoice.AISLE;
+var sanjaySeat = SeatChoice.WINDOW;
+console.log(sanjaySeat);

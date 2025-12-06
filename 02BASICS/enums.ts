@@ -6,3 +6,5 @@ enum SeatChoice {
 }
 
 const hcSeat = SeatChoice.AISLE
+const sanjaySeat = SeatChoice.WINDOW
+console.log(sanjaySeat)
