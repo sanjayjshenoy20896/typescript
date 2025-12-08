@@ -20,3 +20,23 @@ npm install typescript --save-dev
 How to install globally systemwide
 npm install -g typescript
 
+Interfaces:
+Some examples of practical use cases for Amazon Neptune are social network user connection mapping, fraud detection systems, and search and recommendation systems.
+  
+It defines the shape of objects.It is a loosely coupled version of class.
+  
+difference between type and Interfaces
+/***
+ * Difference between Type and interfaces
+ * Type:
+ * 1.) Type cannot be opened to add new properties
+ * 2.) Type can be extended via intersection and union
+ * 3.) Type cannot be redeclared to extends new properties
+ * 4.) 2 types with same name cannot be used
+ * 
+ * Interface:
+ * 1.) Interfaces can be opened to add new properties or methods
+ * 2.) Interfaces can be extended via object inheritance using the extends keyword
+ * 3.) Interfaces can be redecalred to add new properties or methods
+ * 4.) 2 types with same name will result in merged properties
+ */
